@@ -1,3 +1,16 @@
 # OOP_ORDERING_SYSTEM
 OOP Computer Parts Ordering System
-This is just cool
+
+## Getting started
+
+```gradle
+...
+mainClassName = 'AssignmentNoGUI.java'
+...
+```
+
+## Usage
+
+To help a client to manage online ordering from computer part company
+
+
